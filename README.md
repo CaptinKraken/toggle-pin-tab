@@ -1,8 +1,6 @@
 # Toggle Pinned Tab
 
-# Toggle Pinned Tab
-
-A brief description of the repository.
+Extension to Toggle Pinned Tabs in firefox via a keybind
 
 ## Table of Contents
 
